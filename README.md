@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CareerTrack — Smart Student Job & Internship Management System
 
 A full-stack **MERN (MongoDB, Express, React, Node.js)** web application engineered for college students and job seekers to manage the complete lifecycle of job and internship applications, schedule interview rounds, generate professional resumes, track deadlines, and identify real skill gaps based on employer job postings.
@@ -220,3 +221,8 @@ npm test
 - **Data Security**: Strict user-level authorization checks on every Express route prevent students from accessing other users' records.
 - **Placement Relevance**: Solves a real problem college students face when tracking 50+ off-campus and on-campus placement drives across spreadsheets.
 - **Skill Gap Roadmap**: Links employer requirements to tangible learning links (e.g. LeetCode, SQLBolt, Microsoft Learn, freeCodeCamp) with student progress tracking.
+=======
+# CareerTrack
+>>>>>>> 9cc225c1c52082a7bbf581584ce2fa75a8cc240a
+#   C a r e e r T r a c k M i n i P r o j e c t  
+ 
