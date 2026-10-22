@@ -1,0 +1,28 @@
+{
+  "name": "careertrack-project",
+  "version": "1.0.0",
+  "description": "CareerTrack - Smart Student Job & Internship Management System (MERN Stack)",
+  "scripts": {
+    "dev": "concurrently -n \"server,client\" -c \"blue,magenta\" \"npm run dev:server\" \"npm run dev:client\"",
+    "start:server": "cd server && npm start",
+    "dev:server": "cd server && npm run dev",
+    "dev:client": "cd client && npm run dev",
+    "build:client": "cd client && npm run build",
+    "test:server": "cd server && npm test",
+    "install:all": "cd server && npm install && cd ../client && npm install"
+  },
+  "keywords": [
+    "mern",
+    "careertrack",
+    "react",
+    "express",
+    "mongodb",
+    "node",
+    "vite"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^10.0.6"
+  }
+}
